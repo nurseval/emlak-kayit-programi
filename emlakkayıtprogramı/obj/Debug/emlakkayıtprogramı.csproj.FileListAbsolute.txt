@@ -1,0 +1,12 @@
+C:\Users\Nur\source\repos\emlakkayıtprogramı\bin\Debug\emlakkayıtprogramı.exe.config
+C:\Users\Nur\source\repos\emlakkayıtprogramı\bin\Debug\emlakkayıtprogramı.exe
+C:\Users\Nur\source\repos\emlakkayıtprogramı\bin\Debug\emlakkayıtprogramı.pdb
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.Form1.resources
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.Form2.resources
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.Properties.Resources.resources
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.exe
+C:\Users\Nur\source\repos\emlakkayıtprogramı\obj\Debug\emlakkayıtprogramı.pdb
